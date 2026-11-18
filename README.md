@@ -1,6 +1,6 @@
 # Pusat Laundry - Marketplace Laundry On-Demand
 
-LINK VIDEO : https://drive.google.com/file/d/1ni09Q8YA_yfMT-6KTfNqvQwVIPTPMf06/view?usp=sharing
+LINK VIDEO : https://youtu.be/qYz8hDnoNrE
 
 Pusat Laundry adalah platform marketplace layanan laundry berbasis web yang menghubungkan pelanggan (*customer*), pemilik outlet (*owner toko*), staf operasional (*admin toko*), dan mitra pengantaran (*kurir*) dalam satu ekosistem terpadu dengan pengawasan operasional terpusat (*platform owner* & *admin owner*).
 
